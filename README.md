@@ -1,1 +1,3 @@
 # Mussie's notes
+## Summary 
+This repository contains all of the notes taken by [Mussie](https://github.com/mussiearaya/lighthouse-web-notes) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
